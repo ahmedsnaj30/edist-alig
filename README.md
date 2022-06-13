@@ -9,7 +9,7 @@ Calculated the edit distance between 2 genetic sequence stringsto measure the si
 ```
 Also calculated the optimal distance using the Matrix class, and printed a table of the aligned DNA strings by tracing the matrix and printing the actual alignment.\
 
-Commands:\
+Commands: 
 ```
 make
 ./EDistance < example10.txt
