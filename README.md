@@ -7,7 +7,7 @@ Calculated the edit distance between 2 genetic sequence stringsto measure the si
 1 --> If the characters were different
 2 --> If a character matched with a blank
 ```
-Also calculated the optimal distance using the Matrix class, and printed a table of the aligned DNA strings by tracing the matrix and printing the actual alignment.\
+Also calculated the optimal distance using the Matrix class, and printed a table of the aligned DNA strings by tracing the matrix and printing the actual alignment.
 
 Commands: 
 ```
